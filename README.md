@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **AI ChatBot**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **gurjotsingh03@outlook.com**
 
 - ⚡ Fun fact **I Play Guitar!**
